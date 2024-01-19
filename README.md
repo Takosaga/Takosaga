@@ -34,10 +34,13 @@ Open mvp/prototype
 </a>
 
 ### [Current Walk Score](https://github.com/Takosaga/Current_Walk_Score)
-![Walk Score](https://media.giphy.com/media/ssRpHFGHuFgipSfnpz/giphy.gif)
+
+<img src="https://media.giphy.com/media/ssRpHFGHuFgipSfnpz/giphy.gif" width="150">
+
 
 ### [CSCareerPaths](https://github.com/Takosaga/CSCareerPaths)
-![Careers](https://media.giphy.com/media/EHwWE7LBcDCAx5NbGu/giphy.gif)
+
+<img src="https://media.giphy.com/media/EHwWE7LBcDCAx5NbGu/giphy.gif" width="150">
 
 ### [CodeWithGamez](https://codewithgamez.github.io/website/)
 
