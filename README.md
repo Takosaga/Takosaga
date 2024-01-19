@@ -27,19 +27,17 @@
 
 ## 💼 Examples of Work
 
-### US Walkability
+### [US Walkability](https://github.com/Takosaga/us_walkability)
 Open mvp/prototype
 <a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Current Walk Score
+### [Current Walk Score](https://github.com/Takosaga/Current_Walk_Score)
 ![Walk Score](https://media.giphy.com/media/ssRpHFGHuFgipSfnpz/giphy.gif)
 
-### CSCareerPaths
+### [CSCareerPaths](https://github.com/Takosaga/CSCareerPaths)
 ![Careers](https://media.giphy.com/media/EHwWE7LBcDCAx5NbGu/giphy.gif)
-![Courses](https://media.giphy.com/media/dwltd2N2yV6nXWRHOl/giphy.gif)
-![Teacher](https://media.giphy.com/media/lVvrzdri7GpDKbhadw/giphy.gif)
 
-### CodeWithGamez 
-https://codewithgamez.github.io/website/
+### [CodeWithGamez](https://codewithgamez.github.io/website/)
+
