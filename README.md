@@ -28,19 +28,27 @@
 ## 💼 Examples of Work
 
 ### [US Walkability](https://github.com/Takosaga/us_walkability)
-Open mvp/prototype
-<a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
+Projects to work towards making a dashboard to show walkable hotels in the US
+
+* Mvp/prototype <a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+* [Database Documentation](https://drive.google.com/file/d/1W_bE2dChBU-NUYyJLXBKcbJPKWls30te/view?usp=sharing)
+
 ### [Current Walk Score](https://github.com/Takosaga/Current_Walk_Score)
+
+An app to show current walk score of the current place I visit without needing to enter address
 
 <img src="https://media.giphy.com/media/ssRpHFGHuFgipSfnpz/giphy.gif" width="150">
 
 
 ### [CSCareerPaths](https://github.com/Takosaga/CSCareerPaths)
 
+App to increase student enrollement in the computer science program in the district
+
 <img src="https://media.giphy.com/media/EHwWE7LBcDCAx5NbGu/giphy.gif" width="150">
 
 ### [CodeWithGamez](https://codewithgamez.github.io/website/)
 
+Webiste for future courses 
