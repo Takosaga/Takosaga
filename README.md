@@ -36,19 +36,4 @@ Projects to work towards making a dashboard to show walkable hotels in the US
 
 * [Database Documentation](https://drive.google.com/file/d/1W_bE2dChBU-NUYyJLXBKcbJPKWls30te/view?usp=sharing)
 
-### [Current Walk Score](https://github.com/Takosaga/Current_Walk_Score)
 
-An app to show current walk score of the current place I visit without needing to enter address
-
-<img src="https://media.giphy.com/media/ssRpHFGHuFgipSfnpz/giphy.gif" width="150">
-
-
-### [CSCareerPaths](https://github.com/Takosaga/CSCareerPaths)
-
-App to increase student enrollement in the computer science program in the district
-
-<img src="https://media.giphy.com/media/EHwWE7LBcDCAx5NbGu/giphy.gif" width="150">
-
-### [CodeWithGamez](https://codewithgamez.github.io/website/)
-
-Webiste for future courses 
