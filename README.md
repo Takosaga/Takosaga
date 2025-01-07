@@ -63,7 +63,7 @@ Developed interpretable machine learning models to identify suspicious users bas
 
 ---
 
-### [Analyzed Hotel & Transit Data for Walkable US Travel Options](https://github.com/Takosaga/us_walkability)
+### [Analyzed Hotel & Transit Data for Walkable US Travel Options](https://github.com/Takosaga/fall_23/tree/main/modern_database_technologies)
 Designed a relational database to evaluate walkability and public transit accessibility across US cities.
 
 * Created a normalized schema with ERD and implemented it in SQL Server.
@@ -71,8 +71,6 @@ Designed a relational database to evaluate walkability and public transit access
 * Key Skills: SQL, ERD Design, Data Modeling.
   
 ![](https://github.com/Takosaga/fall_23/blob/main/modern_database_technologies/ERD.png)
-
-[Database Documentation](https://github.com/Takosaga/fall_23/blob/main/modern_database_technologies/Modern%20Database%20Technologies%20(Course%20Project).pdf)
 
 ---
 
@@ -87,8 +85,6 @@ Analyzed walkability metrics across Washington D.C. using Walk Score data to pro
 
 ![](https://github.com/Takosaga/us_walkability/blob/main/reports/figures/DC%20transitscore.png)
 
-<a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
 
 ---
