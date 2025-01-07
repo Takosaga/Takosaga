@@ -23,6 +23,17 @@
 
 ## 💼 Examples of Work
 
+---
+
+### [Business Intelligence and Data Visualization](https://github.com/Takosaga/fall_24/tree/main/bi_and_data_viz)
+Developed interactive dashboards to provide insights into business performance metrics.
+
+* Utilized Power BI to create visualizations for sales and marketing data.
+* Implemented data models to support real-time analytics.
+* Key Skills: Power BI, Data Visualization, Business Intelligence.
+
+![](https://github.com/Takosaga/fall_24/blob/main/bi_and_data_viz/dashboard.png)
+
 
 ---
 
@@ -35,9 +46,7 @@ Analyzed engagement trends across TikTok and YouTube to help influencer manageme
   
 ![](https://github.com/Takosaga/fall_24/blob/main/big_data/coursework_assignment/reports/figures/etl.png)
 
-<a target="_blank" href="https://tiktok-youtube-dashboard.streamlit.app/">
-  <img src="https://img.shields.io/badge/Dashboard-Streamlit-blue?style=for-the-badge" alt="Streamlit Dashboard"/>
-</a>
+
 
 ---
 
@@ -50,11 +59,10 @@ Developed interpretable machine learning models to identify suspicious users bas
   
 ![](https://github.com/Takosaga/fall_24/blob/main/machine_learning_and_predictive_analytics/detecting_suspicious_tiktok_content_creators/reports/figures/decision_tree.png)
 
-<a target="_blank" href="https://github.com/Takosaga/fall_24/tree/main/machine_learning_and_predictive_analytics/detecting_suspicious_tiktok_content_creators">
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?style=for-the-badge" alt="Jupyter Notebook"/>
-</a>
+
 
 ---
+
 ### [Analyzed Hotel & Transit Data for Walkable US Travel Options](https://github.com/Takosaga/us_walkability)
 Designed a relational database to evaluate walkability and public transit accessibility across US cities.
 
@@ -64,8 +72,23 @@ Designed a relational database to evaluate walkability and public transit access
   
 ![](https://github.com/Takosaga/fall_23/blob/main/modern_database_technologies/ERD.png)
 
+[Database Documentation](https://github.com/Takosaga/fall_23/blob/main/modern_database_technologies/Modern%20Database%20Technologies%20(Course%20Project).pdf)
+
+---
+
+### [DC Walkability Analysis](https://github.com/Takosaga/us_walkability)
+Analyzed walkability metrics across Washington D.C. using Walk Score data to provide insights into urban mobility patterns.
+
+* Developed geospatial visualizations of walkability metrics using interactive maps.
+* Conducted statistical analysis of correlations between different mobility scores.
+* Built regression models to understand factors influencing Walk Scores.
+* Analyzed the impact of neighborhood amenities (dining, shopping, parks) on walkability.
+* Key Skills: Python, Data Analysis, Geospatial Visualization, Statistical Modeling.
+
+![](https://github.com/Takosaga/us_walkability/blob/main/reports/figures/DC%20transitscore.png)
+
 <a target="_blank" href="https://colab.research.google.com/github/Takosaga/us_walkability/blob/main/notebooks/mvp.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[Database Documentation](https://drive.google.com/file/d/1W_bE2dChBU-NUYyJLXBKcbJPKWls30te/view?usp=sharing)
+---
