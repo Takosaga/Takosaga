@@ -59,7 +59,17 @@ Developed interpretable machine learning models to identify suspicious users bas
   
 ![](https://github.com/Takosaga/fall_24/blob/main/machine_learning_and_predictive_analytics/detecting_suspicious_tiktok_content_creators/reports/figures/decision_tree.png)
 
+---
 
+### [Article Management System Project](https://github.com/Takosaga/spring_24/tree/main/project_management)
+Developed an Agile-based system to streamline article submissions and reviews for academic journals.
+
+* Designed and implemented workflows using the Scrum framework with two-week sprints.
+* Created a product backlog with user stories, story points, and Gantt charts for project planning.
+* Applied QA/QC processes, risk management strategies, and cost analysis for project control.
+* Key Skills: Agile Project Management, Scope Planning (WBS), Stakeholder Management, Risk Analysis, Quality Control.
+
+![](https://github.com/Takosaga/spring_24/blob/main/project_management/work_breakdown_structure.png)
 
 ---
 
