@@ -55,7 +55,7 @@ Developed interpretable machine learning models to identify suspicious users bas
 
 * Created and optimized Logistic Regression and Decision Tree models.
 * Resolved class imbalance with SMOTE and SMOTEENN.
-* Key Skills: Feature Engineering, Model Tuning, Explainable AI.
+* Key Skills: Feature Engineering, Model Tuning, Interpretable models.
   
 ![](https://github.com/Takosaga/fall_24/blob/main/machine_learning_and_predictive_analytics/detecting_suspicious_tiktok_content_creators/reports/figures/decision_tree.png)
 
