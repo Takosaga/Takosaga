@@ -25,7 +25,7 @@
 
 ---
 
-### [Business Intelligence and Data Visualization](https://github.com/Takosaga/fall_24/tree/main/bi_and_data_viz)
+### [Competitive Analysis for UWE Bristol](https://github.com/Takosaga/fall_24/tree/main/bi_and_data_viz)
 Developed interactive dashboards to provide insights into business performance metrics.
 
 * Utilized Power BI to create visualizations for sales and marketing data.
