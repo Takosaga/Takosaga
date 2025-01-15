@@ -2,7 +2,7 @@
 
 **`Making data make sense`**
 
-- 🔭 I’m currently working on [AI group project](https://github.com/Takosaga/ai_group_project) 
+- 🔭 I’m currently working on [Riga Transit Forecast Dashboard](https://github.com/Takosaga/riga_transit_forecast_dashboard) 
 - 🌱 I’m currently learning Computer Science at [Transport and Telecommunication Institute](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)
 - 💬 Ask me about my teaching experiences
 - ⚡ Fun fact: I cycled [200 miles](https://strava.app.link/907coShCZPb) (320 kms) in one day
@@ -22,6 +22,17 @@
 ---
 
 ## 💼 Examples of Work
+---
+
+### [Image Recognition to Detect Different Vehicle Types in Riga](https://github.com/Takosaga/ai_group_project)
+Led a team to develop an AI model for classifying vehicle types in Riga, Latvia, enhancing urban traffic analysis.
+
+* Coordinated project planning, data collection, and model development.
+* Managed timelines and ensured effective team communication.
+* Oversaw the deployment of the model for real-time traffic monitoring.
+* Key Skills: Project Management, Team Leadership, AI Model Deployment.
+
+![](https://github.com/Takosaga/ai_group_project/blob/main/reports/figures/results_unlabeled_20241127_122537.jpg)
 
 ---
 
