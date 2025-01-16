@@ -29,7 +29,7 @@ Led a team to develop an AI model for classifying vehicle types in Riga, Latvia,
 
 * Coordinated project planning, data collection, and model development.
 * Managed timelines and ensured effective team communication.
-* Oversaw the deployment of the model for real-time traffic monitoring.
+* Oversaw the development of the model for real-time traffic monitoring.
 * Key Skills: Project Management, Team Leadership, AI Model Deployment.
 
 ![](https://github.com/Takosaga/ai_group_project/blob/main/reports/figures/results_unlabeled_20241127_122537.jpg)
