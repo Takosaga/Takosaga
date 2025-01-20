@@ -41,7 +41,7 @@ Developed interactive dashboards to provide insights into business performance m
 
 * Utilized Power BI to create visualizations for sales and marketing data.
 * Implemented data models to support real-time analytics.
-* Key Skills: Power BI, Data Visualization, Business Intelligence.
+* Key Skills: Power BI, Story telling, Data Visualization, Business Intelligence.
 
 ![](https://github.com/Takosaga/fall_24/blob/main/bi_and_data_viz/dashboard.png)
 
@@ -53,7 +53,7 @@ Analyzed engagement trends across TikTok and YouTube to help influencer manageme
 
 * Developed a Streamlit dashboard for data visualization.
 * Performed ETL operations and correlation analysis.
-* Key Skills: Pandas, Dask, Data Cleaning, Visualization.
+* Key Skills: Pandas, Data Cleaning, Streamlit.
   
 ![](https://github.com/Takosaga/fall_24/blob/main/big_data/coursework_assignment/reports/figures/etl.png)
 
@@ -102,7 +102,7 @@ Analyzed walkability metrics across Washington D.C. using Walk Score data to pro
 * Conducted statistical analysis of correlations between different mobility scores.
 * Built regression models to understand factors influencing Walk Scores.
 * Analyzed the impact of neighborhood amenities (dining, shopping, parks) on walkability.
-* Key Skills: Python, Data Analysis, Geospatial Visualization, Statistical Modeling.
+* Key Skills: Python, Juptyer Notebooks, Data Analysis, Geospatial Visualization.
 
 ![](https://github.com/Takosaga/us_walkability/blob/main/reports/figures/DC%20transitscore.png)
 
