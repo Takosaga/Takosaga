@@ -23,6 +23,15 @@
 
 ## 💼 Examples of Work
 ---
+### [Teacher's Helper (Retrieval-Augmented Generation for Teaching Resources)](https://github.com/Takosaga/teachers_helper)
+
+Developed during the AI for Connectivity Hackathon, this project addresses the challenge of retrieving high-quality teaching resources, especially in low-resource communities.
+
+* Tackled undocumented API integration through experimentation and community resources, while resolving hardware compatibility issues with environment variable adjustments.
+* Prioritized smaller, cost-effective models and implemented hybrid cloud/on-premise architectures, including user-friendly Slack integrations, to support educators in resource-constrained environments.
+* Used Docker for rapid prototyping and employed modular designs to adapt tools quickly, while simplifying outputs to ensure accessibility for teachers.
+
+![](https://github.com/Takosaga/teachers_helper/blob/main/bot_example.png)
 
 ### [Image Recognition to Detect Different Vehicle Types in Riga](https://github.com/Takosaga/ai_group_project)
 Led a team to develop an AI model for classifying vehicle types in Riga, Latvia, enhancing urban traffic analysis.
