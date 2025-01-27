@@ -93,7 +93,7 @@ Developed an Agile-based system to streamline article submissions and reviews fo
 
 ---
 
-### [Analyzed Hotel & Transit Data for Walkable US Travel Options](https://github.com/Takosaga/fall_23/tree/main/modern_database_technologies)
+### [Database for Hotel & Transit Data for Walkable US Travel Options](https://github.com/Takosaga/fall_23/tree/main/modern_database_technologies)
 Designed a relational database to evaluate walkability and public transit accessibility across US cities.
 
 * Created a normalized schema with ERD and implemented it in SQL Server.
