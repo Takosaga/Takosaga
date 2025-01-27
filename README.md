@@ -81,7 +81,7 @@ Developed interpretable machine learning models to identify suspicious users bas
 
 ---
 
-### [Article Management System Project](https://github.com/Takosaga/spring_24/tree/main/project_management)
+### [Article Management System Project Planning](https://github.com/Takosaga/spring_24/tree/main/project_management)
 Developed an Agile-based system to streamline article submissions and reviews for academic journals.
 
 * Designed and implemented workflows using the Scrum framework with two-week sprints.
