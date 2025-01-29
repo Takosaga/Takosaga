@@ -47,7 +47,7 @@ Led a team to develop an AI model for classifying vehicle types in Riga, Latvia,
 ---
 
 ### [Competitive Analysis for UWE Bristol](https://github.com/Takosaga/fall_24/tree/main/bi_and_data_viz)
-Developed interactive dashboards to provide insights into business performance metrics.
+Developed an interactive dashboard to provide insights into business performance metrics.
 
 * Utilized Power BI to create visualizations for sales and marketing data.
 * Implemented data models to support real-time analytics.
