@@ -30,7 +30,7 @@ Developed during the AI for Connectivity Hackathon, this project addresses the c
 * Tackled undocumented API integration through experimentation and community resources, while resolving hardware compatibility issues with environment variable adjustments.
 * Prioritized smaller, cost-effective models and implemented hybrid cloud/on-premise architectures, including user-friendly Slack integrations, to support educators in resource-constrained environments.
 * Used Docker for rapid prototyping and employed modular designs to adapt tools quickly, while simplifying outputs to ensure accessibility for teachers.
-* Kek Skills:  Docker, Ollama, Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
+* Key Skills:  Docker, Ollama, Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
 
 ![](https://github.com/Takosaga/teachers_helper/blob/main/bot_example.png)
 
