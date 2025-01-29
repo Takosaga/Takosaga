@@ -27,9 +27,12 @@
 
 Developed during the AI for Connectivity Hackathon, this project addresses the challenge of retrieving high-quality teaching resources, especially in low-resource communities.
 
-* Tackled undocumented API integration through experimentation and community resources, while resolving hardware compatibility issues with environment variable adjustments.
-* Prioritized smaller, cost-effective models and implemented hybrid cloud/on-premise architectures, including user-friendly Slack integrations, to support educators in resource-constrained environments.
-* Used Docker for rapid prototyping and employed modular designs to adapt tools quickly, while simplifying outputs to ensure accessibility for teachers.
+* Resolved undocumented API integration via experimentation and community efforts, addressing hardware 
+compatibility by adjusting environment variables.
+* Used smaller, cost-effective models with hybrid cloud/on-premise setups (including Slack 
+integrations) to aid educators in resource-constrained areas.
+* Used Docker for rapid prototyping with modular designs to quickly adapt tools and simplify 
+outputs for teachers' use.
 * Key Skills:  Docker, Ollama, Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
 
 ![](https://github.com/Takosaga/teachers_helper/blob/main/bot_example.png)
