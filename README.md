@@ -2,7 +2,7 @@
 
 **`Making data make sense`**
 
-- 🔭 I’m currently working on [Riga Transit Forecast Dashboard](https://github.com/Takosaga/riga_transit_forecast_dashboard) 
+- 🔭 I’m currently working on my master's thesis (Explainable AI for Detrimental Content in Social Media)
 - 🌱 I’m currently studying for [Master of Natural Sciences in Computer Science](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/) with specialisation in Data Analytics and Artificial Intelligence at Transport and Telecommunication Institute
 - 💬 Ask me about my teaching experiences
 - ⚡ Fun fact: I cycled [200 miles](https://strava.app.link/907coShCZPb) (320 kms) in one day
