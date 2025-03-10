@@ -25,7 +25,7 @@
 ## 💼 Examples of Work
 ---
 
-### Featured Project: [Automated Proliferation Assessment (Computer Vision for Medical Use Case)](https://github.com/Takosaga/EHH-2025)
+### Featured Project: [Automated Proliferation Assessment (Computer Vision for a Medical Use Case)](https://github.com/Takosaga/EHH-2025)
 
 Developed during European Healthcare Hackathon 2025 in Prague, the project aims to address the challenges in assessing the Ki-67 protein—a key marker of cell proliferation used to determine tumor grade and aggressiveness.
 
