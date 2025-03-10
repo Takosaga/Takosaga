@@ -21,8 +21,21 @@
 
 ---
 
+
 ## 💼 Examples of Work
 ---
+
+### Featured Project: [Automated Proliferation Assessment (Computer Vision for Medical Use Case)](https://github.com/Takosaga/EHH-2025)
+
+Developed during European Healthcare Hackathon 2025 in Prague, the project aims to address the challenges in assessing the Ki-67 protein—a key marker of cell proliferation used to determine tumor grade and aggressiveness.
+
+* Worked in an unfamiliar field of the medical field in a different country
+* Collaborated with team members that had skills sets of design and front end developement
+* Learned backend skills to serve model to frontend
+* Key Skills: Fast API, Rapid prototyping, Computer Vision models
+
+[![Play](https://github.com/Takosaga/EHH-2025/blob/main/play.png)](https://youtu.be/4LtwRDbN2_M)
+
 ### [Teacher's Helper (Retrieval-Augmented Generation for Teaching Resources)](https://github.com/Takosaga/teachers_helper)
 
 Developed during the AI for Connectivity Hackathon, this project addresses the challenge of retrieving high-quality teaching resources, especially in low-resource communities.
