@@ -36,6 +36,8 @@ Developed during European Healthcare Hackathon 2025 in Prague, the project aims 
 
 [![Play](https://github.com/Takosaga/EHH-2025/blob/main/play.png)](https://youtu.be/4LtwRDbN2_M)
 
+---
+
 ### [Teacher's Helper (Retrieval-Augmented Generation for Teaching Resources)](https://github.com/Takosaga/teachers_helper)
 
 Developed during the AI for Connectivity Hackathon, this project addresses the challenge of retrieving high-quality teaching resources, especially in low-resource communities.
@@ -49,6 +51,8 @@ outputs for teachers' use.
 * Key Skills:  Docker, Ollama, Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
 
 ![](https://github.com/Takosaga/teachers_helper/blob/main/bot_example.png)
+
+---
 
 ### [Image Recognition to Detect Different Vehicle Types in Riga](https://github.com/Takosaga/ai_group_project)
 Led a team to develop an AI model for classifying vehicle types in Riga, Latvia, enhancing urban traffic analysis.
@@ -71,7 +75,6 @@ Developed an interactive dashboard to provide insights into business performance
 
 ![](https://github.com/Takosaga/fall_24/blob/main/bi_and_data_viz/dashboard.png)
 
-
 ---
 
 ### [Big Data Analysis in Social Media](https://github.com/Takosaga/fall_24/tree/main/big_data/coursework_assignment)
@@ -82,8 +85,6 @@ Analyzed engagement trends across TikTok and YouTube to help influencer manageme
 * Key Skills: Pandas, Data Cleaning, Streamlit.
   
 ![](https://github.com/Takosaga/fall_24/blob/main/big_data/coursework_assignment/reports/figures/etl.png)
-
-
 
 ---
 
