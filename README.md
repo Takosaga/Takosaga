@@ -24,6 +24,16 @@
 
 ## 💼 Examples of Work
 ---
+Collaborated in the Women in Tech Hackathon 2025 to develop "AkcijuDraugs," a sales grocery price comparison application designed to help consumers make informed purchasing decisions by extracting and analyzing data from various grocery brochures.
+
+* Strategic Workflow Design: Developing a system to effectively divide tasks among our team members, ensuring efficient collaboration.
+* OCR Exploration & Database Creation: Investigating and implementing OCR techniques to extract data from grocery brochures, and building a database to store this crucial information.
+* Team Collaboration & Management: Working closely with a multidisciplinary team, enhancing my remote and onsite team management skills
+* Key Skills: Optical Character Recognition (OCR), Database Design, Solution Architecture, Team Management
+  
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWljenJkajY0MXJkem0yb2I0eGNsZjR1bWEyNHVzMjBxMWhlZXR2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T1OchynFoXc0nSN7O5/giphy.gif)
+
+---
 
 ### [Automated Proliferation Assessment (Computer Vision for a Medical Use Case)](https://github.com/Takosaga/EHH-2025)
 
