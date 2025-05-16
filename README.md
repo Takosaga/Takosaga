@@ -24,6 +24,8 @@
 
 ## 💼 Examples of Work
 ---
+
+### [Pārtikas cenu salīdzināšanas portāls / Portal for comparing the prices of groceries](https://github.com/Takosaga/groceryprices)
 Collaborated in the Women in Tech Hackathon 2025 to develop "AkcijuDraugs," a sales grocery price comparison application designed to help consumers make informed purchasing decisions by extracting and analyzing data from various grocery brochures.
 
 * Strategic Workflow Design: Developing a system to effectively divide tasks among our team members, ensuring efficient collaboration.
