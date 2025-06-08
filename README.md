@@ -25,6 +25,20 @@
 ## 💼 Examples of Work
 ---
 
+### [Evaluating the Consistency of Explainable AI Methods in Hate Speech Detection](https://github.com/Takosaga/master_thesis)
+
+Developed research to evaluate the consistency of Explainable Artificial Intelligence (XAI) methods in hate speech detection across multiple social media platforms. This master's thesis project addresses critical transparency needs in content moderation by systematically comparing LIME and SHAP explanation techniques using rigorous quantitative methodologies.
+
+* Multi-Platform Data Integration: Aggregated and standardized hate speech datasets from Twitter, YouTube, Reddit, and Gab, ensuring diverse representation across different social media contexts and target demographics.
+* XAI Implementation: Integrated LIME and SHAP explanation frameworks with CardiffNLP's RoBERTa-based hate speech detection model, developing controlled experimental setups to isolate stochasticity effects on explanation consistency.
+* Statistical Evaluation: Applied multiple consistency metrics including Jaccard Similarity, Spearman Correlation, and Kendall Tau-b, demonstrating that SHAP provides significantly more consistent explanations than LIME across prediction scenarios.
+* Visualization: Created heatmap visualizations and consistency matrices to represent explanation behavior, supporting both quantitative findings and intuitive understanding of XAI method performance.
+* Key Skills: Natural Language Processing, Explainable AI (LIME/SHAP), Statistical Analysis, Data Visualization, Research Methodology, Python
+
+![](https://github.com/Takosaga/master_thesis/blob/defense_prep/reports/figures/Results.png)
+
+---
+
 ### [Pārtikas cenu salīdzināšanas portāls / Portal for comparing the prices of groceries](https://github.com/Takosaga/groceryprices)
 Collaborated in the Women in Tech Hackathon 2025 to develop "AkcijuDraugs," a sales grocery price comparison application designed to help consumers make informed purchasing decisions by extracting and analyzing data from various grocery brochures.
 
