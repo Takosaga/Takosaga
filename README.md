@@ -3,7 +3,7 @@
 **`Making data make sense`**
 
 - 🔭 I’m currently working on my [Master's Thesis](https://github.com/Takosaga/master_thesis)
-- 🌱 I’m currently studying for a [Master of Natural Sciences in Computer Science](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/) with a specialisation in Data Analytics and Artificial Intelligence at Transport and Telecommunication Institute
+- 🌱 I finished studying for a [Master of Natural Sciences in Computer Science](https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/) with a specialisation in Data Analytics and Artificial Intelligence at Transport and Telecommunication Institute
 - 💬 Ask me about my teaching experiences
 - ⚡ Fun fact: I cycled [200 miles](https://strava.app.link/907coShCZPb) (320 kms) in one day
 
