@@ -37,7 +37,7 @@ Results demonstrate that SHAP outperforms LIME in explanation stability, achievi
 * Visualization: Created heatmap visualizations and consistency matrices to represent explanation behavior, supporting both quantitative findings and intuitive understanding of XAI method performance.
 * Key Skills: Natural Language Processing, Explainable AI (LIME/SHAP), Statistical Analysis, Data Visualization, Research Methodology, Python
 
-![](https://github.com/Takosaga/master_thesis/blob/defense_prep/reports/figures/Results.png)
+![](https://github.com/Takosaga/master_thesis/blob/main/reports/figures/Results.png)
 
 ---
 
