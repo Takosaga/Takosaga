@@ -154,9 +154,7 @@ Designed a relational database to evaluate walkability and public transit access
 Analyzed walkability metrics across Washington D.C. using Walk Score data to provide insights into urban mobility patterns.
 
 * Developed geospatial visualizations of walkability metrics using interactive maps.
-* Conducted statistical analysis of correlations between different mobility scores.
-* Built regression models to understand factors influencing Walk Scores.
-* Analyzed the impact of neighborhood amenities (dining, shopping, parks) on walkability.
+* Used data from [walkscore.com](https://www.walkscore.com/walkable-neighborhoods.shtml) by APIs
 * Key Skills: Python, Juptyer Notebooks, Data Analysis, Geospatial Visualization.
 
 ![](https://github.com/Takosaga/us_walkability/blob/main/reports/figures/DC%20transitscore.png)
