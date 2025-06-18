@@ -27,7 +27,7 @@
 
 ### [Evaluating the Consistency of Explainable AI Methods in Hate Speech Detection](https://github.com/Takosaga/master_thesis)
 
-Developed research to evaluate the consistency of Explainable Artificial Intelligence (XAI) methods in hate speech detection across multiple social media platforms. This master's thesis project addresses critical transparency needs in content moderation by systematically comparing LIME and SHAP explanation techniques using rigorous quantitative methodologies.
+Developed research to evaluate the consistency of Explainable Artificial Intelligence (XAI) methods in hate speech detection across multiple social media platforms. This master's thesis project addresses transparency needs in content detection by systematically comparing LIME and SHAP explanation techniques using rigorous quantitative methodologies.
 
 Results demonstrate that SHAP outperforms LIME in explanation stability, achieving perfect or near-perfect scores across all three consistency metrics (Jaccard similarity, Spearman's ρ, and Kendall's τb). While LIME exhibited moderate consistency with scores between 0.65-0.80, SHAP maintained reproducibility with scores of 1.0 across different random seeds.
 
