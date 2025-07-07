@@ -27,6 +27,9 @@
 
 ### [Evaluating the Consistency of Explainable AI Methods in Hate Speech Detection](https://github.com/Takosaga/master_thesis)
 
+Challenge: LIME and SHAP are XAI methods used to explain AI models that detect hatespeech. Which is better base on conistency metrics?
+Results: SHAP provided consitent results compared to LIME, so recommendation is to use SHAP.
+
 Developed research to evaluate the consistency of Explainable Artificial Intelligence (XAI) methods in hate speech detection across multiple social media platforms. This master's thesis project addresses transparency needs in content detection by systematically comparing LIME and SHAP explanation techniques using rigorous quantitative methodologies.
 
 Results demonstrate that SHAP outperforms LIME in explanation stability, achieving perfect or near-perfect scores across all three consistency metrics (Jaccard similarity, Spearman's ρ, and Kendall's τb). While LIME exhibited moderate consistency with scores between 0.65-0.80, SHAP maintained reproducibility with scores of 1.0 across different random seeds.
@@ -42,6 +45,10 @@ Results demonstrate that SHAP outperforms LIME in explanation stability, achievi
 ---
 
 ### [Pārtikas cenu salīdzināšanas portāls / Portal for comparing the prices of groceries](https://github.com/Takosaga/groceryprices)
+
+Challenge: Grocery brochures have sales in Latvia, manually comparing between stores is time consuming.
+Results: We crated a grocery price comparison that used AI for OCR to be stored in a database, to be served with a React front-end interface and python backend.
+
 Collaborated in the Women in Tech Hackathon 2025 to develop "AkcijuDraugs," a sales grocery price comparison application designed to help consumers make informed purchasing decisions by extracting and analyzing data from various grocery brochures.
 
 * Strategic Workflow Design: Developing a system to effectively divide tasks among our team members, ensuring efficient collaboration.
@@ -55,6 +62,9 @@ Collaborated in the Women in Tech Hackathon 2025 to develop "AkcijuDraugs," a sa
 
 ### [Automated Proliferation Assessment (Computer Vision for a Medical Use Case)](https://github.com/Takosaga/EHH-2025)
 
+Challenge: It is time consuming to manually mark positive growth in cells to detech tumors.
+Results: We labled and fine-tuned a YOLO model to detect growths in a given area selected in an area of a cell.
+
 Developed during European Healthcare Hackathon 2025 in Prague, the project aims to address the challenges in assessing the Ki-67 protein—a key marker of cell proliferation used to determine tumor grade and aggressiveness.
 
 * Worked in an unfamiliar field of the medical field in a different country
@@ -67,6 +77,9 @@ Developed during European Healthcare Hackathon 2025 in Prague, the project aims 
 ---
 
 ### [Teacher's Helper (Retrieval-Augmented Generation for Teaching Resources)](https://github.com/Takosaga/teachers_helper)
+
+Challenge: There is plentiful resources to be used online and provided by school districts, how can a teacher pick the correct resource to use to teach a specific lesson?
+Results: I created a slack chat bot that uses RAG to retrive relavant materials based on questions asked.
 
 Developed during the AI for Connectivity Hackathon, this project addresses the challenge of retrieving high-quality teaching resources, especially in low-resource communities.
 
@@ -83,6 +96,10 @@ outputs for teachers' use.
 ---
 
 ### [Image Recognition to Detect Different Vehicle Types in Riga](https://github.com/Takosaga/ai_group_project)
+
+Challenge: Detecting tracfic is possible but there is a variety of vehicles types in Riga, which types of vehicle types are there in traffic?
+Results: We labeled and fine-tuned a YOLO model to detect different types of vehicles in Riga. 
+
 Led a team to develop an AI model for classifying vehicle types in Riga, Latvia, enhancing urban traffic analysis.
 
 * Coordinated project planning, data collection, and model development.
@@ -95,6 +112,10 @@ Led a team to develop an AI model for classifying vehicle types in Riga, Latvia,
 ---
 
 ### [Competitive Analysis for UWE Bristol](https://github.com/Takosaga/fall_24/tree/main/bi_and_data_viz)
+
+Challenge: There are Guardian UK univerity ranking released every year, how can UWE improve and who should we target with our results compared versus UWE competitors?
+Results: UWE should market towards international students with it's ranking and employability comparison to it competitors.
+
 Developed an interactive dashboard to provide insights into business performance metrics.
 
 * Utilized Power BI to create visualizations for sales and marketing data.
@@ -106,6 +127,10 @@ Developed an interactive dashboard to provide insights into business performance
 ---
 
 ### [Big Data Analysis in Social Media](https://github.com/Takosaga/fall_24/tree/main/big_data/coursework_assignment)
+
+Challenge: There is data available for TikTok and the influencer management group wishes to expand into YouTube using semi-structured data to see if views correlate with user engagment similar to TikTok.
+Results: I created a dashboard that used data from an excel sheet and MangoDB that shows that for both TikTok and YouTube the more views a video has then the more engagment the video gets such as likes, shares, comments, etc.
+
 Analyzed engagement trends across TikTok and YouTube to help influencer management groups optimize strategies.
 
 * Developed a Streamlit dashboard for data visualization.
@@ -117,6 +142,10 @@ Analyzed engagement trends across TikTok and YouTube to help influencer manageme
 ---
 
 ### [Detecting Suspicious TikTok Content Creators](https://github.com/Takosaga/fall_24/tree/main/machine_learning_and_predictive_analytics/detecting_suspicious_tiktok_content_creators)
+
+Challenge: There is a dataset with a variety of TikTok content creators and thier properties of thier videos, is it possible to see what shared attributes banned/warned creators have?
+Results: The best performing and interpretable model I created was a decision tree, but was did not achieve satisfactory results to be deployed. Possible to use deep learning models and apply XAI to have an interpretable model to have better results.
+
 Developed interpretable machine learning models to identify suspicious users based on behavior patterns.
 
 * Created and optimized Logistic Regression and Decision Tree models.
@@ -128,7 +157,11 @@ Developed interpretable machine learning models to identify suspicious users bas
 ---
 
 ### [Article Management System Project Planning](https://github.com/Takosaga/spring_24/tree/main/project_management)
-Developed an Agile-based system to streamline article submissions and reviews for academic journals.
+
+Challenge: The company has recieved creating a article management system with the given requirements.
+Results: Created a project planning document to develope an article management system. 
+
+Developed a planning docuent to streamline article submissions and reviews for academic journals.
 
 * Designed and implemented workflows using the Scrum framework with two-week sprints.
 * Created a product backlog with user stories, story points, and Gantt charts for project planning.
@@ -140,6 +173,10 @@ Developed an Agile-based system to streamline article submissions and reviews fo
 ---
 
 ### [Database for Hotel & Transit Data for Walkable US Travel Options](https://github.com/Takosaga/fall_23/tree/main/modern_database_technologies)
+
+Challenge: If you come from outside the US, it is expected for you to get around by vehicle, where in the US is it possible to walk or use transit?
+Results: I created a relational database to be used to store related data to be used later with a back end.
+
 Designed a relational database to evaluate walkability and public transit accessibility across US cities.
 
 * Created a normalized schema with ERD and implemented it in SQL Server.
@@ -151,6 +188,10 @@ Designed a relational database to evaluate walkability and public transit access
 ---
 
 ### [DC Walkability Analysis](https://github.com/Takosaga/us_walkability)
+
+Challenge: We have data about walk, transit, and bike stores, how could we visualize this data?
+Results: I used python to visualize walkable places in DC. 
+
 Analyzed walkability metrics across Washington D.C. using Walk Score data to provide insights into urban mobility patterns.
 
 * Developed geospatial visualizations of walkability metrics using interactive maps.
