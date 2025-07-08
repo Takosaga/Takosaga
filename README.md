@@ -64,7 +64,7 @@ Collaborated in the Women in Tech Hackathon 2025 to develop "AkcijuDraugs," a sa
 
 ### [Automated Proliferation Assessment (Computer Vision for a Medical Use Case)](https://github.com/Takosaga/EHH-2025)
 
-Challenge: It is time consuming to manually mark positive growth in cells to detech tumors.
+Challenge: It is time consuming to manually mark positive growth in cells to detect tumors.
 
 Results: We labled and fine-tuned a YOLO model to detect growths in a given area selected in an area of a cell.
 
