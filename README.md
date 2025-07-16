@@ -27,7 +27,7 @@
 
 ### [Evaluating the Consistency of Explainable AI Methods in Hate Speech Detection](https://github.com/Takosaga/master_thesis)
 
-Challenge: LIME and SHAP are XAI methods used to explain AI models that detect hatespeech. Which is better base on conistency metrics?
+Challenge: LIME and SHAP are XAI methods used to explain AI models that detect hatespeech. Which is better based on conistency metrics?
 
 Results: SHAP provided consitent results compared to LIME, so recommendation is to use SHAP.
 
